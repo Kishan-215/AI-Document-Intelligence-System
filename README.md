@@ -47,7 +47,7 @@ It supports multilingual processing, intelligent querying, and even generates vi
 
 ## 🚀 Getting Started
 
-👉 Detailed installation and setup instructions are available in the `/docs` or setup folder inside this repository.
+👉 Detailed installation and setup instructions are available inside this repository.
 
 ---
 
